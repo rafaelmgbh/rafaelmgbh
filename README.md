@@ -20,18 +20,14 @@
 <p align="center"><img align="center" src="https://profile-counter.glitch.me/{rafaelmgbh}/count.svg" /></p> 
 <br></div>
 
-  # Social 
- 
-<div> 
+# Connect with me:
+
+<p align="center">
+<a href = "https://www.linkedin.com/in/rafael-santos-122018154"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
+<a href = "mailto:rafaelsantosdearaujo@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+</p>
 
 
-
-  <a href = "mailto:rafaelsantosdearaujo@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/rafael-santos-122018154" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
- 
-
- 
-</div>
 <!--
 **rafaelmgbh/rafaelmgbh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
