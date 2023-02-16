@@ -1,22 +1,19 @@
-## Olá, me chamo  Rafael Santos de Araujo!  👋
+
+# Olá, eu sou Rafael Santos 👋
+
+## Trabalho na Simbiose Ventures como desenvolvedor full-stack
+
+Desenvolvo soluções de software para atender a necessidades específicas de negócios. Sou apaixonado por resolver problemas e criar soluções eficientes e de qualidade para os clientes.
 
 
-### Bem vindo ao meu perfil GitHub 👋
-
-- 📚 Técnologo Análise e Desenvolvimento de Sistemas
-- 💻 Desenvolvedor - Simbiose 
+## O que estou aprendendo
+Estou sempre buscando novas tecnologias e habilidades para aprimorar meu conhecimento e aprimorar minha carreira como desenvolvedor. Atualmente, estou aprendendo mais sobre Ruby e Rails.
 
 
 ### Ferramentas e Tecnologias
-<img alt="Python" src="https://img.shields.io/badge/-Python-ffbc03?&logo=Python&style=for-the-badge" /><img alt="NumPy" src="https://img.shields.io/badge/numpy-%23013243.svg?&style=for-the-badge&logo=numpy&logoColor=white"> <img alt="Pandas" src="https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white"> <img alt="MySQL" src="https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white"> <img alt="PostGres" src="https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white"> <img alt="git" src="https://img.shields.io/badge/-Git-F05032?&style=for-the-badge&logo=git&logoColor=white" /><img alt="Vim" src="https://img.shields.io/badge/-Vim-019833?&logo=Vim&style=for-the-badge" /> <img alt="VS Code" src="https://img.shields.io/static/v1?style=for-the-badge&message=VS+Code&color=007ACC&logo=Visual+Studio+Code&logoColor=FFFFFF&label=">
-<img alt="Intellij" src="https://img.shields.io/badge/Intellij-%23013243.svg?&style=for-the-badge&logo=Intellij&logoColor=orange"><img alt="PyCharm" src="https://img.shields.io/static/v1?style=for-the-badge&message=PyCharm&color=000000&logo=PyCharm&logoColor=FFFFFF&label="> <img alt="Docker" src="https://img.shields.io/badge/-Docker-46a2f1?&style=for-the-badge&logo=docker&logoColor=white" /> <img alt="Linux" src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black">
-
-
-
-### Estou aprendendo
-
-[![My Skills](https://skills.thijs.gg/icons?i=java,react,nodejs&theme=light)](https://skills.thijs.gg)
-
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg"  width="40" height="40" /><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg"  width="40" height="40" /><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jetbrains/jetbrains-original.svg"  width="40" height="40" /><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="40" height="40" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg"  width="40" height="40"/> 
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg"  width="40" height="40"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" width="40" height="40"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" width="40" height="40" /><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"  width="40" height="40" /><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original-wordmark.svg"  width="40" height="40" /><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ruby/ruby-plain-wordmark.svg"  width="40" height="40"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rails/rails-plain-wordmark.svg"  width="40" height="40"/>       
 
 <div align="center">  
   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=rafaelmgbh&show_icons=true&count_private=true&hide_border=true&title_color=00bfbf&icon_color=00bfbf&text_color=c9d1d9&bg_color=0d1117" alt="Rafael Santos de Araujo github stats" /> 
@@ -25,15 +22,21 @@
 
 
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=rafaelmgbh&theme=dracula&row=2&no-bg=true&column=3&margin-w=15&margin-h=15" />
-</p>
+
 
 
 <div align="center">
 <br><p align="centre"><b>Visitors Count</b></p>  
 <p align="center"><img align="center" src="https://profile-counter.glitch.me/{rafaelmgbh}/count.svg" /></p> 
 <br></div>
+
+
+<div style="">
+    
+   <div align='center'>
+<a height="150em" href="http://www.github.com/isaac545454">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=isaac545454&stroke=2ea043&background=171717&ring=3382ed&fire=3382ed&currStreakNum=0bd967&currStreakLabel=3382ed&sideNums=0bd967&sideLabels=3382ed&dates=0bd967&hide_border=true" /></a>
+</div>
 
 # Connect with me:
 
