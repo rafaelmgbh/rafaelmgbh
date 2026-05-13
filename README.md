@@ -40,6 +40,14 @@ Based in Brazil 🇧🇷 · Working in English & Portuguese.
   <img height="180" src="https://streak-stats.demolab.com/?user=rafaelmgbh&hide_border=true&theme=tokyonight" alt="GitHub streak" />
 </div>
 
+### Contribution Calendar
+
+<div align="center">
+  <a href="https://github.com/rafaelmgbh">
+    <img src="https://ghchart.rshah.org/409ba5/rafaelmgbh" alt="Rafael's GitHub contribution chart" />
+  </a>
+</div>
+
 ---
 
 ## Connect
@@ -47,7 +55,3 @@ Based in Brazil 🇧🇷 · Working in English & Portuguese.
 - 📧 [rafaelsantosdearaujo@gmail.com](mailto:rafaelsantosdearaujo@gmail.com)
 - 💼 [LinkedIn](https://www.linkedin.com/in/rafael-santos-122018154)
 - 🐙 [GitHub](https://github.com/rafaelmgbh)
-
-<div align="center">
-  <img src="https://profile-counter.glitch.me/rafaelmgbh/count.svg" alt="Profile views" />
-</div>
