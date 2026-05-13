@@ -32,8 +32,8 @@ Based in Brazil 🇧🇷 · Working in English & Portuguese.
 ## GitHub Stats
 
 <div align="center">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=rafaelmgbh&show_icons=true&count_private=true&hide_border=true&theme=tokyonight" alt="Rafael's GitHub stats" />
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafaelmgbh&layout=compact&hide_border=true&theme=tokyonight&langs_count=8" alt="Top languages" />
+  <img height="180" src="https://github-readme-stats-sigma-five.vercel.app/api?username=rafaelmgbh&show_icons=true&count_private=true&hide_border=true&theme=tokyonight" alt="Rafael's GitHub stats" />
+  <img height="180" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=rafaelmgbh&layout=compact&hide_border=true&theme=tokyonight&langs_count=8" alt="Top languages" />
 </div>
 
 <div align="center">
