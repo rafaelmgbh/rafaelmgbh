@@ -1,45 +1,53 @@
-# Hello, I'm Rafael Santos 👋, I'm a mid level developer .
+# Hi, I'm Rafael Santos 👋
 
-I am currently part of a team of developers at Voraz Tecnologia, where we are focused on creating innovative solutions for the agricultural sector. My passion is to develop software that meets the specific needs of our customers, offering efficient and high-quality solutions.
+**Tech Lead @ Sulivam Softwares** — building production systems for 15+ years.
 
+I work across the stack: **Ruby on Rails**, **Python (Django / FastAPI)**, **Odoo (v15 → v19)**, **Next.js** on the frontend, all running on **AWS** with **Docker** and a healthy dose of observability. I care about code that ships, infrastructure that doesn't wake me up at 3 AM, and mentoring devs into ownership.
 
-## Programming Languages I'm Familiar With:
-<img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue"/> <img src="https://img.shields.io/badge/Ruby-CC342D?style=for-the-badge&logo=ruby&logoColor=white"/><img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"/> JAVA
+Based in Brazil 🇧🇷 · Working in English & Portuguese.
 
-I am currently developing with Odoo
+---
 
-### Tools and technologies that I know about:
+## What I work with
 
-| **Frameworks & Library** | **Cloud** | **Database** | **IDE** |
-|-------------------------|----------|-------------|---------|
-| ![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white) | ![Amazon AWS](https://img.shields.io/badge/Amazon_AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white) | ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white) | ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ_IDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white) |
-| ![Docker](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white) | ![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white) | ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white) | ![PyCharm](https://img.shields.io/badge/PyCharm-000000.svg?&style=for-the-badge&logo=PyCharm&logoColor=white) |
-| ![FastAPI](https://img.shields.io/badge/fastapi-109989?style=for-the-badge&logo=FASTAPI&logoColor=white) | ![Railway](https://img.shields.io/badge/Railway-131415?style=for-the-badge&logo=railway&logoColor=white) | | ![VIM](https://img.shields.io/badge/VIM-%2311AB00.svg?&style=for-the-badge&logo=vim&logoColor=white) |
-| ![Insomnia](https://img.shields.io/badge/Insomnia-5849be?style=for-the-badge&logo=Insomnia&logoColor=white) | ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white) | | |
-| ![Ruby on Rails](https://img.shields.io/badge/Ruby_on_Rails-CC0000?style=for-the-badge&logo=ruby-on-rails&logoColor=white) | ![Odoo](https://img.shields.io/badge/Odoo-007ACC?style=for-the-badge&logo=Odoo&logoColor=white) | | |
-| Spring Boot | | |
+| **Languages**                | **Backend**                       | **Frontend**                | **Data**                    |
+|------------------------------|-----------------------------------|-----------------------------|-----------------------------|
+| Python · Ruby · JS/TS · Java | Rails · Django · FastAPI · Odoo   | Next.js · React · Tailwind  | PostgreSQL · MySQL · Redis  |
 
-<div align="center">  
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=rafaelmgbh&show_icons=true&count_private=true&hide_border=true&title_color=00bfbf&icon_color=00bfbf&text_color=c9d1d9&bg_color=0d1117" alt="Rafael Santos de Araujo github stats" /> 
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafaelmgbh&layout=compact&hide_border=true&title_color=00bfbf&text_color=00bfbf&bg_color=0d1117" />
+| **Cloud & Infra**                                                    | **DevOps & Observability**                                                  | **Tooling**                          |
+|----------------------------------------------------------------------|------------------------------------------------------------------------------|--------------------------------------|
+| AWS (EC2 · RDS · S3 · SSM) · Docker · nginx · Tailscale · Cloudflare | Prometheus · Grafana · Uptime Kuma · restic · systemd · Bitbucket Pipelines | Linux · SSH · Vim · Claude Code · MCP |
+
+---
+
+## What I do day-to-day
+
+- Lead backend & infra decisions at **Sulivam Softwares** — Rails monoliths, Odoo ERP customizations, AWS infra, CI/CD.
+- Design APIs, optimize queries, debug production incidents, mentor mid-level devs into ownership.
+- Run a **homelab** for fun: Docker stacks, Prometheus/Grafana observability, Tailscale mesh, Nextcloud, automated restic backups to Backblaze B2.
+- Build small tools that scratch real itches — dashboards, monitors, automation around AI tooling (Claude Code, MCP).
+
+---
+
+## GitHub Stats
+
+<div align="center">
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=rafaelmgbh&show_icons=true&count_private=true&hide_border=true&theme=tokyonight" alt="Rafael's GitHub stats" />
+  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafaelmgbh&layout=compact&hide_border=true&theme=tokyonight&langs_count=8" alt="Top languages" />
 </div>
 
 <div align="center">
-<br><p align="centre"><b>Visitors Count</b></p>  
-<p align="center"><img align="center" src="https://profile-counter.glitch.me/{rafaelmgbh}/count.svg" /></p> 
-<br></div>
-
-<div style="">
-    
-   <div align='center'>
-<a height="150em" href="http://www.github.com/rafaelmgbh">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rafaelmgbh&stroke=2ea043&background=171717&ring=3382ed&fire=3382ed&currStreakNum=0bd967&currStreakLabel=3382ed&sideNums=0bd967&sideLabels=3382ed&dates=0bd967&hide_border=true" /></a>
+  <img height="180" src="https://streak-stats.demolab.com/?user=rafaelmgbh&hide_border=true&theme=tokyonight" alt="GitHub streak" />
 </div>
 
-# Connect with me:
+---
 
-<p align="center">
-<a href = "https://www.linkedin.com/in/rafael-santos-122018154"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
-<a href = "mailto:rafaelsantosdearaujo@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-</p>
+## Connect
 
+- 📧 [rafaelsantosdearaujo@gmail.com](mailto:rafaelsantosdearaujo@gmail.com)
+- 💼 [LinkedIn](https://www.linkedin.com/in/rafael-santos-122018154)
+- 🐙 [GitHub](https://github.com/rafaelmgbh)
+
+<div align="center">
+  <img src="https://profile-counter.glitch.me/rafaelmgbh/count.svg" alt="Profile views" />
+</div>
