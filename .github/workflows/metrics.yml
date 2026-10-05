@@ -1,0 +1,37 @@
+name: Metrics
+
+on:
+  schedule:
+    - cron: "0 9 * * *" # 06:00 BRT
+  workflow_dispatch:
+  push:
+    branches: [main]
+    paths: [.github/workflows/metrics.yml]
+
+permissions:
+  contents: write
+
+jobs:
+  github-metrics:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: lowlighter/metrics@latest
+        with:
+          # Classic PAT (scopes: repo, read:user) so private repos count toward
+          # languages/activity. Only aggregated numbers are rendered, no repo names.
+          token: ${{ secrets.METRICS_TOKEN }}
+          committer_token: ${{ secrets.GITHUB_TOKEN }}
+          user: rafaelmgbh
+          filename: github-metrics.svg
+          template: classic
+          config_timezone: America/Sao_Paulo
+          base: header, activity, community, repositories
+
+          plugin_languages: yes
+          plugin_languages_sections: most-used
+          plugin_languages_limit: 8
+          plugin_languages_details: percentage
+          plugin_languages_ignored: html, css, scss, shell, dockerfile, makefile, jupyter notebook, procfile
+
+          plugin_isocalendar: yes
+          plugin_isocalendar_duration: full-year
